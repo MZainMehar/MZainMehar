@@ -22,10 +22,6 @@ I'm a passionate software developer with a love for creating innovative solution
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=MZainMehar&show_icons=true&theme=algolia" alt="MZainMehar's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZainMehar&layout=compact&theme=algolia" alt="MZainMehar's Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MZainMehar&theme=radical" alt="MZainMehar's GitHub Streak" />
   <br/>
   <p>Keep coding and keep pushing boundaries! 🌟</p>
