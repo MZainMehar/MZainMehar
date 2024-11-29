@@ -14,7 +14,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - 👯 **Looking to Collaborate On:** AI, NLP, Web Development projects
 - 🤔 **Looking for Help With:** Generative AI and advanced NLP techniques
 - 💬 **Ask Me About:** AI, NLP, Web Development, Machine Learning
-- 📫 **How to Reach Me:** mzainmehar-developer@outlook.com | +92-3010524869
+- 📫 **How to Reach Me:** zainamjad-developer@outlook.com | +92-3010524869
 
 ---
 
@@ -80,7 +80,7 @@ Feel free to reach out if you want to discuss technology, coding, or even just t
 
 - **LinkedIn:** [Zain Amjad](https://www.linkedin.com/in/zainamjadprofile)
 - **Personal Website/Blog:** [Zain's Portfolio](https://zaindevportfolio.netlify.app)
-- **Email:** mzainmehar-developer@outlook.com
+- **Email:** zainamjad-developer@outlook.com
 - **Phone:** +92-3010524869
 
 ---
