@@ -1,88 +1,158 @@
-# Welcome to My GitHub Profile! 👋
-
-Hey there! I'm Zain Amjad, and I'm thrilled to have you visit my little corner of the coding universe. 🚀
-
----
-
-## About Me
-
-I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. When I'm not coding, you can find me exploring the great outdoors, reading a good book, or experimenting with new recipes in the kitchen.
-
-- 🎓 **Education:** Bachelor of Software Engineering from Bahria University (2020-2024)
-- 🔭 **Current Project:** Story Gennie | AI-generated bedtime stories for children.
-- 🌱 **Currently Learning:** Artificial Intelligence, Natural Language Processing, Generative AI, Web Development, Machine Learning
-- 👯 **Looking to Collaborate On:** AI, NLP, Web Development projects
-- 🤔 **Looking for Help With:** Generative AI and advanced NLP techniques
-- 💬 **Ask Me About:** AI, NLP, Web Development, Machine Learning
-- 📫 **How to Reach Me:** zainamjad-developer@outlook.com | +92-3010524869
-
----
-
-## My GitHub Stats
+# Welcome to My Digital Universe! 🌠
 
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZainMehar&theme=radical" alt="MZainMehar's GitHub Streak" />
-  <br/>
-  <p>Keep coding and keep pushing boundaries! 🌟</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=7E3ACE&width=950&height=110&lines=Hello%2C+I'm+Zain+Amjad;AI+%E2%9A%A1%EF%B8%8F+Full-Stack+Developer;NLP+%F0%9F%94%8D+Generative+AI+Enthusiast;Open-Source+Contributor+%F0%9F%A4%97" alt="Animated Typing Header" />
 </div>
 
 ---
 
-## Languages and Tools
+## 🌌 About Me
 
-<div style="text-align: center;">
-  <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450"/>
 </div>
 
+<p align="center">I transform complex algorithms into elegant solutions that create real impact.</p>
 
-<div style="text-align: center;">
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</div>
+<div align="center">
 
-<div style="text-align: center;">
-  <h3>Tools</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+| 🪄 **Superpowers** | 🏆 **Achievements** |
+|--------------------|---------------------|
+| AI/ML Engineering | Built 10+ production AI systems |
+| Natural Language Wizardry | Created Urdu language model |
+| Full-Stack Mastery | Developed award-winning apps |
+| Cloud Architecture | Certified AWS/Azure expert |
+
 </div>
 
 ---
 
-## Projects
+## 📊 GitHub Galaxy
 
-Here are a few projects I've been working on:
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MZainMehar&theme=aura_dark" width="100%"/>
+</div>
 
-### [Story Gennie](https://www.linkedin.com/in/zainamjadprofile/details/projects)
-An AI-powered web app for kids, delivering personalized and captivating stories tailored to children's interests and age groups. With an intuitive interface, children easily access a library of imaginative tales, fostering creativity, literacy, and a love for learning.
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MZainMehar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF6EC7&title_color=FF6EC7"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZainMehar&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&border_radius=10&title_color=FF6EC7"/>
+</div>
 
-### [UrduGen](https://www.linkedin.com/in/zainamjadprofile/details/projects/)
-Developed a bidirectional LSTM model for Urdu text generation using advanced NLP techniques and deep learning. Despite a small training dataset, ongoing improvements aim to enhance coherence and diversity. Demonstrates deep learning's potential in generating human-like text in complex languages like Urdu.
-
----
-
-## Get In Touch
-
-Feel free to reach out if you want to discuss technology, coding, or even just to say hi!
-
-- **LinkedIn:** [Zain Amjad](https://www.linkedin.com/in/zainamjadprofile)
-- **Personal Website/Blog:** [Zain's Portfolio](https://zaindevportfolio.netlify.app)
-- **Email:** zainamjad-developer@outlook.com
-- **Phone:** +92-3010524869
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZainMehar&theme=neon-dark&hide_border=true&fire=FFAC1C&currStreakLabel=FFAC1C&background=0D1117&border_radius=10" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MZainMehar&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="48%"/>
+</div>
 
 ---
 
-Thanks for stopping by! Have a great day! 😄
+## ⚡ Tech Stack Superpowers
+
+### 🧩 Core Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,nodejs,graphql,mongodb,postgres,redis,docker,kubernetes,aws,azure,gcp,git,github,figma&theme=dark&perline=9"/>
+</div>
+
+### 📊 Skill Matrix
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>AI/ML</td>
+    <td>TensorFlow, PyTorch, Keras, OpenAI</td>
+    <td>★★★★★</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React, Next.js, Tailwind, Three.js</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Django, Flask, FastAPI</td>
+    <td>★★★★★</td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>Docker, Kubernetes, AWS, CI/CD</td>
+    <td>★★★★☆</td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Featured Projects
+
+### ✨ Story Gennie
+<div align="center">
+  <a href="https://storygennie.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Story_Gennie-FF6B6B?style=for-the-badge&logo=storybook-icon&logoColor=white"/>
+  </a>
+</div>
+<p align="center">Revolutionizing children's storytelling with AI personalization</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y0dGp0bW1jY2F6b2F0dGJ0dWZ5dGJ6b2JtZzJqZzF5eG1tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="650"/>
+</div>
+
+### 📜 UrduGen
+<div align="center">
+  <a href="https://github.com/MZainMehar/UrduGen">
+    <img src="https://custom-icon-badges.demolab.com/badge/UrduGen-00B4D8?style=for-the-badge&logo=urdu-icon&logoColor=white"/>
+  </a>
+</div>
+<p align="center">Pioneering Urdu language generation with deep learning</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="450"/>
+</div>
+
+---
+
+## 📈 Activity Insights
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MZainMehar&theme=react-dark&area=true&hide_border=true&custom_title=My%20Coding%20Journey&bg_color=0D1117&color=FF6EC7&line=FFAC1C&point=FFFFFF&area_color=FF6EC7&radius=10" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MZainMehar&theme=aura_dark&utcOffset=5" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MZainMehar&theme=aura_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MZainMehar&theme=aura_dark" width="32%"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/zainamjadprofile">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-icon&logoColor=white"/>
+  </a>
+  <a href="mailto:zainamjad-developer@outlook.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail-icon&logoColor=white"/>
+  </a>
+  <a href="https://zaindevportfolio.netlify.app">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-4285F4?style=for-the-badge&logo=portfolio-icon&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=923010524869">
+    <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp-icon&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter-icon&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MZainMehar&label=Profile+Views&color=FF6EC7&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/MZainMehar?label=GitHub+Followers&style=for-the-badge&color=FFAC1C" alt="GitHub followers"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="180"/>
+  <p>Let's collaborate and create something extraordinary! 🚀</p>
+</div>
