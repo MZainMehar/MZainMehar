@@ -87,7 +87,7 @@
 
 ### ✨ Story Gennie
 <div align="center">
-  <a href="https://storygennie.com">
+  <a href="https://story-gennie-5n9y.onrender.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Story_Gennie-FF6B6B?style=for-the-badge&logo=storybook-icon&logoColor=white"/>
   </a>
 </div>
@@ -106,7 +106,7 @@
 <p align="center">Pioneering Urdu language generation with deep learning</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 </div>
 
 ---
